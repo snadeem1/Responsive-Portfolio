@@ -296,7 +296,8 @@ nav{
   width: 100%;
 }
 .work{
-  width: 459px;
+  width: 100%;
+  position: relative;
 }
 
 .main-section{
